@@ -9009,7 +9009,7 @@ textarea.form-control-lg {
 
 .text-start {
     font-size: 1rem;
-    text-align: left !important
+    text-align: justify !important
 }
 
 .text-end {
@@ -13639,7 +13639,8 @@ a.resume-link:hover {
 }
 
 .resume-main .item-content {
-    font-size: 1rem
+    font-size: 1rem;
+    text-align: justify;
 }
 
 .resume-aside {
